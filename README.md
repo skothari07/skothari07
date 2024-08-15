@@ -12,8 +12,6 @@
 💻 &nbsp; I'm an experienced software engineer specializing in backend development with a strong focus on data and cloud technologies. \
 🎓&nbsp;I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston (Expected: May 2025) \
 💡 &nbsp;I am passionate about leveraging my expertise to drive innovation and excel in new challenges. With a proven track record in crafting efficient data-centric solutions, I am eager to contribute my skills to your team and deliver impactful results.\
-🌱 &nbsp;I'm ..\
-✍️ &nbsp;In my free time, I play football..\
 💬 &nbsp;Let's connect over a cup of coffee and collaborate on projects\
 
 
@@ -33,13 +31,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A048?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![ETL](https://img.shields.io/badge/-ETL-6C63FF?style=flat&logo=apache&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit&logoColor=white)&nbsp;
-
 ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-263CE7?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)&nbsp;
-
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
