@@ -10,12 +10,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp; I'm an experienced software engineer specializing in backend development with a strong focus on data and cloud technologies. \
-🎓&nbsp;I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston. (Expected graduation: May 2025) \
+🎓&nbsp;I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston (Expected: May 2025) \
 💡 &nbsp;I am passionate about leveraging my expertise to drive innovation and excel in new challenges. With a proven track record in crafting efficient data-centric solutions, I am eager to contribute my skills to your team and deliver impactful results.\
 🌱 &nbsp;I'm ..\
 ✍️ &nbsp;In my free time, I play football..\
-💬 &nbsp;Let's connect over a cup of coffee\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
+💬 &nbsp;Let's connect over a cup of coffee and collaborate on projects\
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -23,8 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -34,3 +32,21 @@
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)&nbsp;
+![REST](https://img.shields.io/badge/-REST-8C8C8C?style=flat&logo=rest)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)&nbsp;
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi)&nbsp;
+![Java JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit)&nbsp;
