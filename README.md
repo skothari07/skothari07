@@ -1,7 +1,7 @@
 ![hello world (1)](https://github.com/user-attachments/assets/c2faa6ed-90b8-43d5-8b77-4e6f9e77e571)
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c2faa6ed-90b8-43d5-8b77-4e6f9e77e571" alt="Saurabh Kothari - Software Developer" height="300" />
+  <img src="https://github.com/user-attachments/assets/c2faa6ed-90b8-43d5-8b77-4e6f9e77e571" alt="Saurabh Kothari - Software Developer" height="300" width="800" />
 </p>
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
