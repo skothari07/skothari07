@@ -41,3 +41,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power_BI-EDC32B?style=flat&logo=powerbi&logoColor=white)&nbsp;
+
+### 📊 Github stats
+
+<!-- Bassed on: https://github.com/skothari07/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/skothari07/github-readme-stats"><img alt="Saurabh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=skothari07&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/skothari07/github-readme-stats"><img alt="Saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skothari07&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
