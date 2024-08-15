@@ -18,31 +18,30 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-003300?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
 ![REST](https://img.shields.io/badge/-REST-7F7F7F?style=flat&logo=rest&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![ETL](https://img.shields.io/badge/-ETL-9C27B0?style=flat&logo=apache&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003B6F?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A048?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![ETL](https://img.shields.io/badge/-ETL-6C63FF?style=flat&logo=apache&logoColor=white)&nbsp;
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit&logoColor=white)&nbsp;
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-263CE7?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)&nbsp;
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=white)&nbsp;
-
+![PowerBI](https://img.shields.io/badge/-Power_BI-EDC32B?style=flat&logo=powerbi&logoColor=white)&nbsp;
