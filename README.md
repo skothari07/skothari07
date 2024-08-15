@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Active-brightgreen)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-003300?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
