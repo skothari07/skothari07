@@ -12,7 +12,7 @@
 💻 &nbsp; I'm an experienced software engineer specializing in backend development with a strong focus on data and cloud technologies. \
 🎓&nbsp;I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston (Expected: May 2025) \
 💡 &nbsp;I am passionate about leveraging my expertise to drive innovation and excel in new challenges. With a proven track record in crafting efficient data-centric solutions, I am eager to contribute my skills to your team and deliver impactful results.\
-💬 &nbsp;Let's connect over a cup of coffee and collaborate on projects\
+💬 &nbsp;Let's connect over a cup of coffee and collaborate on projects. \
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white&color=232F3E&labelColor=232F3E&logoWidth=20)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-003300?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
