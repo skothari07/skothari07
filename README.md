@@ -1,4 +1,3 @@
-![hello world (1)](https://github.com/user-attachments/assets/c2faa6ed-90b8-43d5-8b77-4e6f9e77e571)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c2faa6ed-90b8-43d5-8b77-4e6f9e77e571" alt="Saurabh Kothari - Software Developer" height="300" width="auto" />
 </p>
