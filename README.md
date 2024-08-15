@@ -45,6 +45,6 @@
 ### 📊 GitHub Stats
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skothari07&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)](https://github.com/skothari07/github-readme-stats)
 
-  [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skothari07)](https://github.com/skothari07/github-readme-stats)
+  <!--[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skothari07)](https://github.com/skothari07/github-readme-stats)-->
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
