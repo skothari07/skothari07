@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 About Me
 
-💻 I'm an experienced software engineer specializing in backend development with a strong focus on distributed systems, data and cloud technologies.  
+💻 I'm an experienced software engineer specializing in backend development with a strong focus on distributed systems, data and AI.  
 🎓 I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston (Expected: Dec 2025)  
 💡 I am passionate about leveraging my expertise to drive innovation and excel in new challenges. With a proven track record in crafting efficient data-centric solutions, I am eager to contribute my skills to your team and deliver impactful results.  
 💬 Let's connect over a cup of coffee and collaborate on projects.  
