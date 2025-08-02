@@ -9,20 +9,23 @@
 
 ### 👨🏻‍💻 About Me
 
-💻 I'm an experienced software engineer specializing in backend development with a strong focus on distributed systems, data and AI.  
-🎓 I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston (Expected: Dec 2025)  
-💡 I am passionate about leveraging my expertise to drive innovation and excel in new challenges. With a proven track record in crafting efficient data-centric solutions, I am eager to contribute my skills to your team and deliver impactful results.  
+💻 I'm an experienced software engineer specialising in backend development with a strong focus on distributed systems, data and AI.  
+🎓 I am currently enrolled in the Master of Science in Computer Science program at Northeastern University, Boston (Expected graduation: Dec 2025)  
+💡 I am passionate about leveraging my expertise to drive innovation and excel in new challenges. With a proven track record in engineering efficient data-centric solutions, I am eager to leverage my skills to deliver impactful results.  
 💬 Let's connect over a cup of coffee and collaborate on projects.  
 
 ### 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white) 
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-003300?style=flat&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
 ![REST](https://img.shields.io/badge/-REST-7F7F7F?style=flat&logo=rest&logoColor=white) 
@@ -30,15 +33,18 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003B6F?style=flat&logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A048?style=flat&logo=mongodb&logoColor=white) 
 ![ETL](https://img.shields.io/badge/-ETL-6C63FF?style=flat&logo=apache&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
+![MapReduce](https://img.shields.io/badge/-MapReduce-FF5D5D?style=flat&logo=apache-hadoop&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit&logoColor=white) 
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E44D26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-263CE7?style=flat&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/-Power_BI-EDC32B?style=flat&logo=powerbi&logoColor=white) 
 
